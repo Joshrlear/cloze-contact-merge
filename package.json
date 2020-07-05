@@ -1,0 +1,16 @@
+{
+  "name": "scrub-cloze-contacts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon scrub.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
